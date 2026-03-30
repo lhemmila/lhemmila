@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lhemmila
 - 👀 I’m interested in ... Computer Science
-- 🌱 I’m currently learning ... More about Web programing
+- 🌱 I’m currently learning ... More about Web programming
 - 💞️ I’m looking to collaborate on ... just about anything!
 - 📫 How to reach me ... lindahemmila@gmail.com
 
